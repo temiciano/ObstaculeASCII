@@ -12,3 +12,4 @@ C:\Users\diego\source\repos\Prime\Prime\obj\Debug\net8.0\refint\Prime.dll
 C:\Users\diego\source\repos\Prime\Prime\obj\Debug\net8.0\Prime.pdb
 C:\Users\diego\source\repos\Prime\Prime\obj\Debug\net8.0\Prime.genruntimeconfig.cache
 C:\Users\diego\source\repos\Prime\Prime\obj\Debug\net8.0\ref\Prime.dll
+C:\Users\diego\source\repos\Prime\Prime\obj\Debug\net8.0\Prime.sourcelink.json

@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\Prime\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\obstaculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\obstaculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\balaenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\balaenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|c:\\users\\diego\\source\\repos\\prime\\prime\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E0F7D7-C123-4EAD-9E9D-9C1725C1D43E}|Prime\\Prime.csproj|solutionrelative:prime\\ventana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,68 +37,96 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 221,
+          "DockedWidth": 240,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Program.cs",
               "RelativeDocumentMoniker": "Prime\\Program.cs",
               "ToolTip": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Program.cs",
               "RelativeToolTip": "Prime\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T21:23:43.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Jugador.cs",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Jugador.cs",
               "RelativeDocumentMoniker": "Prime\\Jugador.cs",
               "ToolTip": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Jugador.cs",
               "RelativeToolTip": "Prime\\Jugador.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowEUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:12:10.851Z"
+              "WhenOpened": "2024-10-16T20:12:10.851Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 221,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 202,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "BalaEnemigo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\BalaEnemigo.cs",
+              "RelativeDocumentMoniker": "Prime\\BalaEnemigo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\BalaEnemigo.cs",
+              "RelativeToolTip": "Prime\\BalaEnemigo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:47:00.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Map.cs",
               "RelativeDocumentMoniker": "Prime\\Map.cs",
               "ToolTip": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Map.cs",
               "RelativeToolTip": "Prime\\Map.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T23:00:20.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bala.cs",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Bala.cs",
               "RelativeDocumentMoniker": "Prime\\Bala.cs",
               "ToolTip": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Bala.cs",
               "RelativeToolTip": "Prime\\Bala.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T20:23:09.887Z"
+              "WhenOpened": "2024-10-16T20:23:09.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Obstaculo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Obstaculo.cs",
+              "RelativeDocumentMoniker": "Prime\\Obstaculo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Obstaculo.cs",
+              "RelativeToolTip": "Prime\\Obstaculo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T22:51:13.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Ventana.cs",
               "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\Prime\\Prime\\Ventana.cs",
               "RelativeDocumentMoniker": "Prime\\Ventana.cs",

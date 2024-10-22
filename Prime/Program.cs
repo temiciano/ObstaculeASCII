@@ -10,12 +10,13 @@ class Program
     private static readonly object lockObject = new object();
     private static List<BalaEnemigo> balasEnemigas = new List<BalaEnemigo>();
     private static Map map;
+    private static Obstaculo obstaculo;
 
     static void Personaje()
     {
         Console.ForegroundColor = ConsoleColor.Yellow;
-        Console.SetCursorPosition(30, 15);
-        Console.Write('☻');
+        Console.SetCursorPosition(33, 4);
+        Console.Write('☠');
     }
 
     static void Main()
@@ -24,15 +25,18 @@ class Program
         Console.CursorVisible = false;
         Ventana ventana = new Ventana(70, 30);
 
-        Map map = new Map();
+        map = new Map();
         map.Draw();
 
+        obstaculo = new Obstaculo(1, 20);
+        obstaculo.Draw();
+
         Personaje();
-                
-        Jugador jugador = new Jugador(14, 20, '☻', map);
+
+        Jugador jugador = new Jugador(62, 20, '☻', map);
 
         System.Timers.Timer moveTimer = new System.Timers.Timer(60);
-        moveTimer.Elapsed += (sender, e) => MoveBullets(jugador);
+        moveTimer.Elapsed += (sender, e) => MoveElements(jugador);
         moveTimer.AutoReset = true;
         moveTimer.Enabled = true;
 
@@ -45,13 +49,14 @@ class Program
         {
             Thread.Sleep(1000);
         }
-
     }
 
-    private static void MoveBullets(Jugador jugador)
+    private static void MoveElements(Jugador jugador)
     {
         lock (lockObject)
         {
+            obstaculo.MoveRight(60);
+
             jugador.Dibujar();
             jugador.Mover();
 
@@ -72,9 +77,9 @@ class Program
     {
         lock (lockObject)
         {
-            int posX = 33; 
-            int posY = 0;
-            balasEnemigas.Add(new BalaEnemigo(posX, posY, '♥'));
+            int posX = 33;
+            int posY = 5;
+            balasEnemigas.Add(new BalaEnemigo(posX, posY, 'V'));
         }
     }
 }
